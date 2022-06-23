@@ -2,7 +2,7 @@
 
 ### Vue3 + Typescript + vite
 
-![travel.gif](https://github.com/Fantasy1316/travel/travel.gif 'travel')
+![](http://img.fechen.cn/uploadfile/static/2022/06/23/travel.gif)
 
 - Install package
 
